@@ -1,0 +1,9 @@
+# Camunda Modeler backups
+*.bpmn.bak
+
+# Python
+__pycache__/
+
+# Windows
+Thumbs.db
+desktop.ini
